@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Reineke Fuchs</title>
+    <link>https://derreineke.com/page/</link>
+    <description>Recent content in Pages on Reineke Fuchs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>derReineke@protonmail.com (Reineke Fuchs)</managingEditor>
+    <webMaster>derReineke@protonmail.com (Reineke Fuchs)</webMaster>
+    <lastBuildDate>Tue, 06 Nov 2018 20:27:27 -0500</lastBuildDate>
+    
+	<atom:link href="https://derreineke.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://derreineke.com/page/about/</link>
+      <pubDate>Tue, 06 Nov 2018 20:27:27 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/page/about/</guid>
+      <description>My name is Reineke Fuchs, if that has not been made apparent. I am a student(still) currently working on a post-degree certificate in Cyber Security; my Bachelors is in the Humanities. I went to grad school for a little bit for Germanic Studies, but I hated it so I dropped out. I then started teaching myself how to program in Python, as well as learned some Data Analysis. I am now working on Networking and Cyber Security mainly, as that is probably the part of the field I want to work in.</description>
+    </item>
+    
+  </channel>
+</rss>

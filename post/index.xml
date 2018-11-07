@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Reineke Fuchs</title>
+    <link>https://derreineke.com/post/</link>
+    <description>Recent content in Posts on Reineke Fuchs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>derReineke@protonmail.com (Reineke Fuchs)</managingEditor>
+    <webMaster>derReineke@protonmail.com (Reineke Fuchs)</webMaster>
+    <lastBuildDate>Tue, 06 Nov 2018 20:23:34 -0500</lastBuildDate>
+    
+	<atom:link href="https://derreineke.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Metrofuchs</title>
+      <link>https://derreineke.com/post/metro/</link>
+      <pubDate>Tue, 06 Nov 2018 20:23:34 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/post/metro/</guid>
+      <description>This page I made as a part of my original portfolio; it is a hidden page. I really like the Brutalist web design aesthetic, so I wanted to make one of my own. I also wanted to demonstrate my German.
+metrofuchs</description>
+    </item>
+    
+    <item>
+      <title>Retrofuchs</title>
+      <link>https://derreineke.com/post/retrofuchs/</link>
+      <pubDate>Tue, 06 Nov 2018 20:22:05 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/post/retrofuchs/</guid>
+      <description>This was my first portfolio page. It is modelled to look like a Unix terminal. It is not the best, but I still really like it.
+retrofuchs</description>
+    </item>
+    
+    <item>
+      <title>Truslav</title>
+      <link>https://derreineke.com/post/truslav/</link>
+      <pubDate>Tue, 06 Nov 2018 20:08:05 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/post/truslav/</guid>
+      <description>The actual, hosted truslav site can be found here: https://truslav.com
+Here is the site that I made for the first version of truslav.com: truslav.com</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://derreineke.com/post/test/</link>
+      <pubDate>Tue, 06 Nov 2018 19:58:55 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/post/test/</guid>
+      <description>This is a test test test</description>
+    </item>
+    
+  </channel>
+</rss>

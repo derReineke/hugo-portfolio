@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reineke Fuchs</title>
+    <link>https://derreineke.com/</link>
+    <description>Recent content on Reineke Fuchs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>derReineke@protonmail.com (Reineke Fuchs)</managingEditor>
+    <webMaster>derReineke@protonmail.com (Reineke Fuchs)</webMaster>
+    <lastBuildDate>Tue, 06 Nov 2018 20:27:27 -0500</lastBuildDate>
+    
+	<atom:link href="https://derreineke.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://derreineke.com/page/about/</link>
+      <pubDate>Tue, 06 Nov 2018 20:27:27 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/page/about/</guid>
+      <description>My name is Reineke Fuchs, if that has not been made apparent. I am a student(still) currently working on a post-degree certificate in Cyber Security; my Bachelors is in the Humanities. I went to grad school for a little bit for Germanic Studies, but I hated it so I dropped out. I then started teaching myself how to program in Python, as well as learned some Data Analysis. I am now working on Networking and Cyber Security mainly, as that is probably the part of the field I want to work in.</description>
+    </item>
+    
+    <item>
+      <title>Metrofuchs</title>
+      <link>https://derreineke.com/post/metro/</link>
+      <pubDate>Tue, 06 Nov 2018 20:23:34 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/post/metro/</guid>
+      <description>This page I made as a part of my original portfolio; it is a hidden page. I really like the Brutalist web design aesthetic, so I wanted to make one of my own. I also wanted to demonstrate my German.
+metrofuchs</description>
+    </item>
+    
+    <item>
+      <title>Retrofuchs</title>
+      <link>https://derreineke.com/post/retrofuchs/</link>
+      <pubDate>Tue, 06 Nov 2018 20:22:05 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/post/retrofuchs/</guid>
+      <description>This was my first portfolio page. It is modelled to look like a Unix terminal. It is not the best, but I still really like it.
+retrofuchs</description>
+    </item>
+    
+    <item>
+      <title>Truslav</title>
+      <link>https://derreineke.com/post/truslav/</link>
+      <pubDate>Tue, 06 Nov 2018 20:08:05 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/post/truslav/</guid>
+      <description>The actual, hosted truslav site can be found here: https://truslav.com
+Here is the site that I made for the first version of truslav.com: truslav.com</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://derreineke.com/post/test/</link>
+      <pubDate>Tue, 06 Nov 2018 19:58:55 -0500</pubDate>
+      <author>derReineke@protonmail.com (Reineke Fuchs)</author>
+      <guid>https://derreineke.com/post/test/</guid>
+      <description>This is a test test test</description>
+    </item>
+    
+  </channel>
+</rss>
